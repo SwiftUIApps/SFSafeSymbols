@@ -4,776 +4,6 @@
 
 @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
 public enum SFSymbol: String, CaseIterable {
-    /// 􀓫
-    case _00Circle = "00.circle"
-
-    /// 􀔊
-    case _00CircleFill = "00.circle.fill"
-
-    /// 􀔩
-    case _00Square = "00.square"
-
-    /// 􀕈
-    case _00SquareFill = "00.square.fill"
-
-    /// 􀓬
-    case _01Circle = "01.circle"
-
-    /// 􀔋
-    case _01CircleFill = "01.circle.fill"
-
-    /// 􀔪
-    case _01Square = "01.square"
-
-    /// 􀕉
-    case _01SquareFill = "01.square.fill"
-
-    /// 􀓭
-    case _02Circle = "02.circle"
-
-    /// 􀔌
-    case _02CircleFill = "02.circle.fill"
-
-    /// 􀔫
-    case _02Square = "02.square"
-
-    /// 􀕊
-    case _02SquareFill = "02.square.fill"
-
-    /// 􀓮
-    case _03Circle = "03.circle"
-
-    /// 􀔍
-    case _03CircleFill = "03.circle.fill"
-
-    /// 􀔬
-    case _03Square = "03.square"
-
-    /// 􀕋
-    case _03SquareFill = "03.square.fill"
-
-    /// 􀓯
-    case _04Circle = "04.circle"
-
-    /// 􀔎
-    case _04CircleFill = "04.circle.fill"
-
-    /// 􀔭
-    case _04Square = "04.square"
-
-    /// 􀕌
-    case _04SquareFill = "04.square.fill"
-
-    /// 􀓰
-    case _05Circle = "05.circle"
-
-    /// 􀔏
-    case _05CircleFill = "05.circle.fill"
-
-    /// 􀔮
-    case _05Square = "05.square"
-
-    /// 􀕍
-    case _05SquareFill = "05.square.fill"
-
-    /// 􀓱
-    case _06Circle = "06.circle"
-
-    /// 􀔐
-    case _06CircleFill = "06.circle.fill"
-
-    /// 􀔯
-    case _06Square = "06.square"
-
-    /// 􀕎
-    case _06SquareFill = "06.square.fill"
-
-    /// 􀓲
-    case _07Circle = "07.circle"
-
-    /// 􀔑
-    case _07CircleFill = "07.circle.fill"
-
-    /// 􀔰
-    case _07Square = "07.square"
-
-    /// 􀕏
-    case _07SquareFill = "07.square.fill"
-
-    /// 􀓳
-    case _08Circle = "08.circle"
-
-    /// 􀔒
-    case _08CircleFill = "08.circle.fill"
-
-    /// 􀔱
-    case _08Square = "08.square"
-
-    /// 􀕐
-    case _08SquareFill = "08.square.fill"
-
-    /// 􀓴
-    case _09Circle = "09.circle"
-
-    /// 􀔓
-    case _09CircleFill = "09.circle.fill"
-
-    /// 􀔲
-    case _09Square = "09.square"
-
-    /// 􀕑
-    case _09SquareFill = "09.square.fill"
-
-    /// 􀀸
-    case _0Circle = "0.circle"
-
-    /// 􀀹
-    case _0CircleFill = "0.circle.fill"
-
-    /// 􀃈
-    case _0Square = "0.square"
-
-    /// 􀃉
-    case _0SquareFill = "0.square.fill"
-
-    /// 􀓵
-    case _10Circle = "10.circle"
-
-    /// 􀔔
-    case _10CircleFill = "10.circle.fill"
-
-    /// 􀔳
-    case _10Square = "10.square"
-
-    /// 􀕒
-    case _10SquareFill = "10.square.fill"
-
-    /// 􀓶
-    case _11Circle = "11.circle"
-
-    /// 􀔕
-    case _11CircleFill = "11.circle.fill"
-
-    /// 􀔴
-    case _11Square = "11.square"
-
-    /// 􀕓
-    case _11SquareFill = "11.square.fill"
-
-    /// 􀓷
-    case _12Circle = "12.circle"
-
-    /// 􀔖
-    case _12CircleFill = "12.circle.fill"
-
-    /// 􀔵
-    case _12Square = "12.square"
-
-    /// 􀕔
-    case _12SquareFill = "12.square.fill"
-
-    /// 􀓸
-    case _13Circle = "13.circle"
-
-    /// 􀔗
-    case _13CircleFill = "13.circle.fill"
-
-    /// 􀔶
-    case _13Square = "13.square"
-
-    /// 􀕕
-    case _13SquareFill = "13.square.fill"
-
-    /// 􀓹
-    case _14Circle = "14.circle"
-
-    /// 􀔘
-    case _14CircleFill = "14.circle.fill"
-
-    /// 􀔷
-    case _14Square = "14.square"
-
-    /// 􀕖
-    case _14SquareFill = "14.square.fill"
-
-    /// 􀓺
-    case _15Circle = "15.circle"
-
-    /// 􀔙
-    case _15CircleFill = "15.circle.fill"
-
-    /// 􀔸
-    case _15Square = "15.square"
-
-    /// 􀕗
-    case _15SquareFill = "15.square.fill"
-
-    /// 􀓻
-    case _16Circle = "16.circle"
-
-    /// 􀔚
-    case _16CircleFill = "16.circle.fill"
-
-    /// 􀔹
-    case _16Square = "16.square"
-
-    /// 􀕘
-    case _16SquareFill = "16.square.fill"
-
-    /// 􀓼
-    case _17Circle = "17.circle"
-
-    /// 􀔛
-    case _17CircleFill = "17.circle.fill"
-
-    /// 􀔺
-    case _17Square = "17.square"
-
-    /// 􀕙
-    case _17SquareFill = "17.square.fill"
-
-    /// 􀓽
-    case _18Circle = "18.circle"
-
-    /// 􀔜
-    case _18CircleFill = "18.circle.fill"
-
-    /// 􀔻
-    case _18Square = "18.square"
-
-    /// 􀕚
-    case _18SquareFill = "18.square.fill"
-
-    /// 􀓾
-    case _19Circle = "19.circle"
-
-    /// 􀔝
-    case _19CircleFill = "19.circle.fill"
-
-    /// 􀔼
-    case _19Square = "19.square"
-
-    /// 􀕛
-    case _19SquareFill = "19.square.fill"
-
-    /// 􀀺
-    case _1Circle = "1.circle"
-
-    /// 􀀻
-    case _1CircleFill = "1.circle.fill"
-
-    /// 􀊮
-    case _1Magnifyingglass = "1.magnifyingglass"
-
-    /// 􀃊
-    case _1Square = "1.square"
-
-    /// 􀃋
-    case _1SquareFill = "1.square.fill"
-
-    /// 􀓿
-    case _20Circle = "20.circle"
-
-    /// 􀔞
-    case _20CircleFill = "20.circle.fill"
-
-    /// 􀔽
-    case _20Square = "20.square"
-
-    /// 􀕜
-    case _20SquareFill = "20.square.fill"
-
-    /// 􀔀
-    case _21Circle = "21.circle"
-
-    /// 􀔟
-    case _21CircleFill = "21.circle.fill"
-
-    /// 􀔾
-    case _21Square = "21.square"
-
-    /// 􀕝
-    case _21SquareFill = "21.square.fill"
-
-    /// 􀔁
-    case _22Circle = "22.circle"
-
-    /// 􀔠
-    case _22CircleFill = "22.circle.fill"
-
-    /// 􀔿
-    case _22Square = "22.square"
-
-    /// 􀕞
-    case _22SquareFill = "22.square.fill"
-
-    /// 􀔂
-    case _23Circle = "23.circle"
-
-    /// 􀔡
-    case _23CircleFill = "23.circle.fill"
-
-    /// 􀕀
-    case _23Square = "23.square"
-
-    /// 􀕟
-    case _23SquareFill = "23.square.fill"
-
-    /// 􀔃
-    case _24Circle = "24.circle"
-
-    /// 􀔢
-    case _24CircleFill = "24.circle.fill"
-
-    /// 􀕁
-    case _24Square = "24.square"
-
-    /// 􀕠
-    case _24SquareFill = "24.square.fill"
-
-    /// 􀔄
-    case _25Circle = "25.circle"
-
-    /// 􀔣
-    case _25CircleFill = "25.circle.fill"
-
-    /// 􀕂
-    case _25Square = "25.square"
-
-    /// 􀕡
-    case _25SquareFill = "25.square.fill"
-
-    /// 􀔅
-    case _26Circle = "26.circle"
-
-    /// 􀔤
-    case _26CircleFill = "26.circle.fill"
-
-    /// 􀕃
-    case _26Square = "26.square"
-
-    /// 􀕢
-    case _26SquareFill = "26.square.fill"
-
-    /// 􀔆
-    case _27Circle = "27.circle"
-
-    /// 􀔥
-    case _27CircleFill = "27.circle.fill"
-
-    /// 􀕄
-    case _27Square = "27.square"
-
-    /// 􀕣
-    case _27SquareFill = "27.square.fill"
-
-    /// 􀔇
-    case _28Circle = "28.circle"
-
-    /// 􀔦
-    case _28CircleFill = "28.circle.fill"
-
-    /// 􀕅
-    case _28Square = "28.square"
-
-    /// 􀕤
-    case _28SquareFill = "28.square.fill"
-
-    /// 􀔈
-    case _29Circle = "29.circle"
-
-    /// 􀔧
-    case _29CircleFill = "29.circle.fill"
-
-    /// 􀕆
-    case _29Square = "29.square"
-
-    /// 􀕥
-    case _29SquareFill = "29.square.fill"
-
-    /// 􀀼
-    case _2Circle = "2.circle"
-
-    /// 􀀽
-    case _2CircleFill = "2.circle.fill"
-
-    /// 􀃌
-    case _2Square = "2.square"
-
-    /// 􀃍
-    case _2SquareFill = "2.square.fill"
-
-    /// 􀔉
-    case _30Circle = "30.circle"
-
-    /// 􀔨
-    case _30CircleFill = "30.circle.fill"
-
-    /// 􀕇
-    case _30Square = "30.square"
-
-    /// 􀕦
-    case _30SquareFill = "30.square.fill"
-
-    /// 􀘠
-    case _31Circle = "31.circle"
-
-    /// 􀘡
-    case _31CircleFill = "31.circle.fill"
-
-    /// 􀘢
-    case _31Square = "31.square"
-
-    /// 􀘣
-    case _31SquareFill = "31.square.fill"
-
-    /// 􀚗
-    case _32Circle = "32.circle"
-
-    /// 􀚘
-    case _32CircleFill = "32.circle.fill"
-
-    /// 􀚽
-    case _32Square = "32.square"
-
-    /// 􀚾
-    case _32SquareFill = "32.square.fill"
-
-    /// 􀚙
-    case _33Circle = "33.circle"
-
-    /// 􀚚
-    case _33CircleFill = "33.circle.fill"
-
-    /// 􀚿
-    case _33Square = "33.square"
-
-    /// 􀛀
-    case _33SquareFill = "33.square.fill"
-
-    /// 􀚛
-    case _34Circle = "34.circle"
-
-    /// 􀚜
-    case _34CircleFill = "34.circle.fill"
-
-    /// 􀛁
-    case _34Square = "34.square"
-
-    /// 􀛂
-    case _34SquareFill = "34.square.fill"
-
-    /// 􀚝
-    case _35Circle = "35.circle"
-
-    /// 􀚞
-    case _35CircleFill = "35.circle.fill"
-
-    /// 􀛃
-    case _35Square = "35.square"
-
-    /// 􀛄
-    case _35SquareFill = "35.square.fill"
-
-    /// 􀚟
-    case _36Circle = "36.circle"
-
-    /// 􀚠
-    case _36CircleFill = "36.circle.fill"
-
-    /// 􀛅
-    case _36Square = "36.square"
-
-    /// 􀛆
-    case _36SquareFill = "36.square.fill"
-
-    /// 􀚡
-    case _37Circle = "37.circle"
-
-    /// 􀚢
-    case _37CircleFill = "37.circle.fill"
-
-    /// 􀛇
-    case _37Square = "37.square"
-
-    /// 􀛈
-    case _37SquareFill = "37.square.fill"
-
-    /// 􀚣
-    case _38Circle = "38.circle"
-
-    /// 􀚤
-    case _38CircleFill = "38.circle.fill"
-
-    /// 􀛉
-    case _38Square = "38.square"
-
-    /// 􀛊
-    case _38SquareFill = "38.square.fill"
-
-    /// 􀚥
-    case _39Circle = "39.circle"
-
-    /// 􀚦
-    case _39CircleFill = "39.circle.fill"
-
-    /// 􀛋
-    case _39Square = "39.square"
-
-    /// 􀛌
-    case _39SquareFill = "39.square.fill"
-
-    /// 􀀾
-    case _3Circle = "3.circle"
-
-    /// 􀀿
-    case _3CircleFill = "3.circle.fill"
-
-    /// 􀃎
-    case _3Square = "3.square"
-
-    /// 􀃏
-    case _3SquareFill = "3.square.fill"
-
-    /// 􀚧
-    case _40Circle = "40.circle"
-
-    /// 􀚨
-    case _40CircleFill = "40.circle.fill"
-
-    /// 􀛍
-    case _40Square = "40.square"
-
-    /// 􀛎
-    case _40SquareFill = "40.square.fill"
-
-    /// 􀚩
-    case _41Circle = "41.circle"
-
-    /// 􀚪
-    case _41CircleFill = "41.circle.fill"
-
-    /// 􀛏
-    case _41Square = "41.square"
-
-    /// 􀛐
-    case _41SquareFill = "41.square.fill"
-
-    /// 􀚫
-    case _42Circle = "42.circle"
-
-    /// 􀚬
-    case _42CircleFill = "42.circle.fill"
-
-    /// 􀛑
-    case _42Square = "42.square"
-
-    /// 􀛒
-    case _42SquareFill = "42.square.fill"
-
-    /// 􀚭
-    case _43Circle = "43.circle"
-
-    /// 􀚮
-    case _43CircleFill = "43.circle.fill"
-
-    /// 􀛓
-    case _43Square = "43.square"
-
-    /// 􀛔
-    case _43SquareFill = "43.square.fill"
-
-    /// 􀚯
-    case _44Circle = "44.circle"
-
-    /// 􀚰
-    case _44CircleFill = "44.circle.fill"
-
-    /// 􀛕
-    case _44Square = "44.square"
-
-    /// 􀛖
-    case _44SquareFill = "44.square.fill"
-
-    /// 􀚱
-    case _45Circle = "45.circle"
-
-    /// 􀚲
-    case _45CircleFill = "45.circle.fill"
-
-    /// 􀛗
-    case _45Square = "45.square"
-
-    /// 􀛘
-    case _45SquareFill = "45.square.fill"
-
-    /// 􀚳
-    case _46Circle = "46.circle"
-
-    /// 􀚴
-    case _46CircleFill = "46.circle.fill"
-
-    /// 􀛙
-    case _46Square = "46.square"
-
-    /// 􀛚
-    case _46SquareFill = "46.square.fill"
-
-    /// 􀚵
-    case _47Circle = "47.circle"
-
-    /// 􀚶
-    case _47CircleFill = "47.circle.fill"
-
-    /// 􀛛
-    case _47Square = "47.square"
-
-    /// 􀛜
-    case _47SquareFill = "47.square.fill"
-
-    /// 􀚷
-    case _48Circle = "48.circle"
-
-    /// 􀚸
-    case _48CircleFill = "48.circle.fill"
-
-    /// 􀛝
-    case _48Square = "48.square"
-
-    /// 􀛞
-    case _48SquareFill = "48.square.fill"
-
-    /// 􀚹
-    case _49Circle = "49.circle"
-
-    /// 􀚺
-    case _49CircleFill = "49.circle.fill"
-
-    /// 􀛟
-    case _49Square = "49.square"
-
-    /// 􀛠
-    case _49SquareFill = "49.square.fill"
-
-    /// 􀘗
-    case _4AltCircle = "4.alt.circle"
-
-    /// 􀘘
-    case _4AltCircleFill = "4.alt.circle.fill"
-
-    /// 􀘙
-    case _4AltSquare = "4.alt.square"
-
-    /// 􀘚
-    case _4AltSquareFill = "4.alt.square.fill"
-
-    /// 􀁀
-    case _4Circle = "4.circle"
-
-    /// 􀁁
-    case _4CircleFill = "4.circle.fill"
-
-    /// 􀃐
-    case _4Square = "4.square"
-
-    /// 􀃑
-    case _4SquareFill = "4.square.fill"
-
-    /// 􀚻
-    case _50Circle = "50.circle"
-
-    /// 􀚼
-    case _50CircleFill = "50.circle.fill"
-
-    /// 􀛡
-    case _50Square = "50.square"
-
-    /// 􀛢
-    case _50SquareFill = "50.square.fill"
-
-    /// 􀁂
-    case _5Circle = "5.circle"
-
-    /// 􀁃
-    case _5CircleFill = "5.circle.fill"
-
-    /// 􀃒
-    case _5Square = "5.square"
-
-    /// 􀃓
-    case _5SquareFill = "5.square.fill"
-
-    /// 􀑱
-    case _6AltCircle = "6.alt.circle"
-
-    /// 􀑲
-    case _6AltCircleFill = "6.alt.circle.fill"
-
-    /// 􀑵
-    case _6AltSquare = "6.alt.square"
-
-    /// 􀑶
-    case _6AltSquareFill = "6.alt.square.fill"
-
-    /// 􀁄
-    case _6Circle = "6.circle"
-
-    /// 􀁅
-    case _6CircleFill = "6.circle.fill"
-
-    /// 􀃔
-    case _6Square = "6.square"
-
-    /// 􀃕
-    case _6SquareFill = "6.square.fill"
-
-    /// 􀁆
-    case _7Circle = "7.circle"
-
-    /// 􀁇
-    case _7CircleFill = "7.circle.fill"
-
-    /// 􀃖
-    case _7Square = "7.square"
-
-    /// 􀃗
-    case _7SquareFill = "7.square.fill"
-
-    /// 􀁈
-    case _8Circle = "8.circle"
-
-    /// 􀁉
-    case _8CircleFill = "8.circle.fill"
-
-    /// 􀃘
-    case _8Square = "8.square"
-
-    /// 􀃙
-    case _8SquareFill = "8.square.fill"
-
-    /// 􀑳
-    case _9AltCircle = "9.alt.circle"
-
-    /// 􀑴
-    case _9AltCircleFill = "9.alt.circle.fill"
-
-    /// 􀑷
-    case _9AltSquare = "9.alt.square"
-
-    /// 􀑸
-    case _9AltSquareFill = "9.alt.square.fill"
-
-    /// 􀁊
-    case _9Circle = "9.circle"
-
-    /// 􀁋
-    case _9CircleFill = "9.circle.fill"
-
-    /// 􀃚
-    case _9Square = "9.square"
-
-    /// 􀃛
-    case _9SquareFill = "9.square.fill"
 
     /// 􀊞
     case `repeat` = "repeat"
@@ -5076,4 +4306,775 @@ public enum SFSymbol: String, CaseIterable {
 
     /// 􀖃
     case zzz = "zzz"
+    
+    /// 􀓫
+    case _00Circle = "00.circle"
+
+    /// 􀔊
+    case _00CircleFill = "00.circle.fill"
+
+    /// 􀔩
+    case _00Square = "00.square"
+
+    /// 􀕈
+    case _00SquareFill = "00.square.fill"
+
+    /// 􀓬
+    case _01Circle = "01.circle"
+
+    /// 􀔋
+    case _01CircleFill = "01.circle.fill"
+
+    /// 􀔪
+    case _01Square = "01.square"
+
+    /// 􀕉
+    case _01SquareFill = "01.square.fill"
+
+    /// 􀓭
+    case _02Circle = "02.circle"
+
+    /// 􀔌
+    case _02CircleFill = "02.circle.fill"
+
+    /// 􀔫
+    case _02Square = "02.square"
+
+    /// 􀕊
+    case _02SquareFill = "02.square.fill"
+
+    /// 􀓮
+    case _03Circle = "03.circle"
+
+    /// 􀔍
+    case _03CircleFill = "03.circle.fill"
+
+    /// 􀔬
+    case _03Square = "03.square"
+
+    /// 􀕋
+    case _03SquareFill = "03.square.fill"
+
+    /// 􀓯
+    case _04Circle = "04.circle"
+
+    /// 􀔎
+    case _04CircleFill = "04.circle.fill"
+
+    /// 􀔭
+    case _04Square = "04.square"
+
+    /// 􀕌
+    case _04SquareFill = "04.square.fill"
+
+    /// 􀓰
+    case _05Circle = "05.circle"
+
+    /// 􀔏
+    case _05CircleFill = "05.circle.fill"
+
+    /// 􀔮
+    case _05Square = "05.square"
+
+    /// 􀕍
+    case _05SquareFill = "05.square.fill"
+
+    /// 􀓱
+    case _06Circle = "06.circle"
+
+    /// 􀔐
+    case _06CircleFill = "06.circle.fill"
+
+    /// 􀔯
+    case _06Square = "06.square"
+
+    /// 􀕎
+    case _06SquareFill = "06.square.fill"
+
+    /// 􀓲
+    case _07Circle = "07.circle"
+
+    /// 􀔑
+    case _07CircleFill = "07.circle.fill"
+
+    /// 􀔰
+    case _07Square = "07.square"
+
+    /// 􀕏
+    case _07SquareFill = "07.square.fill"
+
+    /// 􀓳
+    case _08Circle = "08.circle"
+
+    /// 􀔒
+    case _08CircleFill = "08.circle.fill"
+
+    /// 􀔱
+    case _08Square = "08.square"
+
+    /// 􀕐
+    case _08SquareFill = "08.square.fill"
+
+    /// 􀓴
+    case _09Circle = "09.circle"
+
+    /// 􀔓
+    case _09CircleFill = "09.circle.fill"
+
+    /// 􀔲
+    case _09Square = "09.square"
+
+    /// 􀕑
+    case _09SquareFill = "09.square.fill"
+
+    /// 􀀸
+    case _0Circle = "0.circle"
+
+    /// 􀀹
+    case _0CircleFill = "0.circle.fill"
+
+    /// 􀃈
+    case _0Square = "0.square"
+
+    /// 􀃉
+    case _0SquareFill = "0.square.fill"
+
+    /// 􀓵
+    case _10Circle = "10.circle"
+
+    /// 􀔔
+    case _10CircleFill = "10.circle.fill"
+
+    /// 􀔳
+    case _10Square = "10.square"
+
+    /// 􀕒
+    case _10SquareFill = "10.square.fill"
+
+    /// 􀓶
+    case _11Circle = "11.circle"
+
+    /// 􀔕
+    case _11CircleFill = "11.circle.fill"
+
+    /// 􀔴
+    case _11Square = "11.square"
+
+    /// 􀕓
+    case _11SquareFill = "11.square.fill"
+
+    /// 􀓷
+    case _12Circle = "12.circle"
+
+    /// 􀔖
+    case _12CircleFill = "12.circle.fill"
+
+    /// 􀔵
+    case _12Square = "12.square"
+
+    /// 􀕔
+    case _12SquareFill = "12.square.fill"
+
+    /// 􀓸
+    case _13Circle = "13.circle"
+
+    /// 􀔗
+    case _13CircleFill = "13.circle.fill"
+
+    /// 􀔶
+    case _13Square = "13.square"
+
+    /// 􀕕
+    case _13SquareFill = "13.square.fill"
+
+    /// 􀓹
+    case _14Circle = "14.circle"
+
+    /// 􀔘
+    case _14CircleFill = "14.circle.fill"
+
+    /// 􀔷
+    case _14Square = "14.square"
+
+    /// 􀕖
+    case _14SquareFill = "14.square.fill"
+
+    /// 􀓺
+    case _15Circle = "15.circle"
+
+    /// 􀔙
+    case _15CircleFill = "15.circle.fill"
+
+    /// 􀔸
+    case _15Square = "15.square"
+
+    /// 􀕗
+    case _15SquareFill = "15.square.fill"
+
+    /// 􀓻
+    case _16Circle = "16.circle"
+
+    /// 􀔚
+    case _16CircleFill = "16.circle.fill"
+
+    /// 􀔹
+    case _16Square = "16.square"
+
+    /// 􀕘
+    case _16SquareFill = "16.square.fill"
+
+    /// 􀓼
+    case _17Circle = "17.circle"
+
+    /// 􀔛
+    case _17CircleFill = "17.circle.fill"
+
+    /// 􀔺
+    case _17Square = "17.square"
+
+    /// 􀕙
+    case _17SquareFill = "17.square.fill"
+
+    /// 􀓽
+    case _18Circle = "18.circle"
+
+    /// 􀔜
+    case _18CircleFill = "18.circle.fill"
+
+    /// 􀔻
+    case _18Square = "18.square"
+
+    /// 􀕚
+    case _18SquareFill = "18.square.fill"
+
+    /// 􀓾
+    case _19Circle = "19.circle"
+
+    /// 􀔝
+    case _19CircleFill = "19.circle.fill"
+
+    /// 􀔼
+    case _19Square = "19.square"
+
+    /// 􀕛
+    case _19SquareFill = "19.square.fill"
+
+    /// 􀀺
+    case _1Circle = "1.circle"
+
+    /// 􀀻
+    case _1CircleFill = "1.circle.fill"
+
+    /// 􀊮
+    case _1Magnifyingglass = "1.magnifyingglass"
+
+    /// 􀃊
+    case _1Square = "1.square"
+
+    /// 􀃋
+    case _1SquareFill = "1.square.fill"
+
+    /// 􀓿
+    case _20Circle = "20.circle"
+
+    /// 􀔞
+    case _20CircleFill = "20.circle.fill"
+
+    /// 􀔽
+    case _20Square = "20.square"
+
+    /// 􀕜
+    case _20SquareFill = "20.square.fill"
+
+    /// 􀔀
+    case _21Circle = "21.circle"
+
+    /// 􀔟
+    case _21CircleFill = "21.circle.fill"
+
+    /// 􀔾
+    case _21Square = "21.square"
+
+    /// 􀕝
+    case _21SquareFill = "21.square.fill"
+
+    /// 􀔁
+    case _22Circle = "22.circle"
+
+    /// 􀔠
+    case _22CircleFill = "22.circle.fill"
+
+    /// 􀔿
+    case _22Square = "22.square"
+
+    /// 􀕞
+    case _22SquareFill = "22.square.fill"
+
+    /// 􀔂
+    case _23Circle = "23.circle"
+
+    /// 􀔡
+    case _23CircleFill = "23.circle.fill"
+
+    /// 􀕀
+    case _23Square = "23.square"
+
+    /// 􀕟
+    case _23SquareFill = "23.square.fill"
+
+    /// 􀔃
+    case _24Circle = "24.circle"
+
+    /// 􀔢
+    case _24CircleFill = "24.circle.fill"
+
+    /// 􀕁
+    case _24Square = "24.square"
+
+    /// 􀕠
+    case _24SquareFill = "24.square.fill"
+
+    /// 􀔄
+    case _25Circle = "25.circle"
+
+    /// 􀔣
+    case _25CircleFill = "25.circle.fill"
+
+    /// 􀕂
+    case _25Square = "25.square"
+
+    /// 􀕡
+    case _25SquareFill = "25.square.fill"
+
+    /// 􀔅
+    case _26Circle = "26.circle"
+
+    /// 􀔤
+    case _26CircleFill = "26.circle.fill"
+
+    /// 􀕃
+    case _26Square = "26.square"
+
+    /// 􀕢
+    case _26SquareFill = "26.square.fill"
+
+    /// 􀔆
+    case _27Circle = "27.circle"
+
+    /// 􀔥
+    case _27CircleFill = "27.circle.fill"
+
+    /// 􀕄
+    case _27Square = "27.square"
+
+    /// 􀕣
+    case _27SquareFill = "27.square.fill"
+
+    /// 􀔇
+    case _28Circle = "28.circle"
+
+    /// 􀔦
+    case _28CircleFill = "28.circle.fill"
+
+    /// 􀕅
+    case _28Square = "28.square"
+
+    /// 􀕤
+    case _28SquareFill = "28.square.fill"
+
+    /// 􀔈
+    case _29Circle = "29.circle"
+
+    /// 􀔧
+    case _29CircleFill = "29.circle.fill"
+
+    /// 􀕆
+    case _29Square = "29.square"
+
+    /// 􀕥
+    case _29SquareFill = "29.square.fill"
+
+    /// 􀀼
+    case _2Circle = "2.circle"
+
+    /// 􀀽
+    case _2CircleFill = "2.circle.fill"
+
+    /// 􀃌
+    case _2Square = "2.square"
+
+    /// 􀃍
+    case _2SquareFill = "2.square.fill"
+
+    /// 􀔉
+    case _30Circle = "30.circle"
+
+    /// 􀔨
+    case _30CircleFill = "30.circle.fill"
+
+    /// 􀕇
+    case _30Square = "30.square"
+
+    /// 􀕦
+    case _30SquareFill = "30.square.fill"
+
+    /// 􀘠
+    case _31Circle = "31.circle"
+
+    /// 􀘡
+    case _31CircleFill = "31.circle.fill"
+
+    /// 􀘢
+    case _31Square = "31.square"
+
+    /// 􀘣
+    case _31SquareFill = "31.square.fill"
+
+    /// 􀚗
+    case _32Circle = "32.circle"
+
+    /// 􀚘
+    case _32CircleFill = "32.circle.fill"
+
+    /// 􀚽
+    case _32Square = "32.square"
+
+    /// 􀚾
+    case _32SquareFill = "32.square.fill"
+
+    /// 􀚙
+    case _33Circle = "33.circle"
+
+    /// 􀚚
+    case _33CircleFill = "33.circle.fill"
+
+    /// 􀚿
+    case _33Square = "33.square"
+
+    /// 􀛀
+    case _33SquareFill = "33.square.fill"
+
+    /// 􀚛
+    case _34Circle = "34.circle"
+
+    /// 􀚜
+    case _34CircleFill = "34.circle.fill"
+
+    /// 􀛁
+    case _34Square = "34.square"
+
+    /// 􀛂
+    case _34SquareFill = "34.square.fill"
+
+    /// 􀚝
+    case _35Circle = "35.circle"
+
+    /// 􀚞
+    case _35CircleFill = "35.circle.fill"
+
+    /// 􀛃
+    case _35Square = "35.square"
+
+    /// 􀛄
+    case _35SquareFill = "35.square.fill"
+
+    /// 􀚟
+    case _36Circle = "36.circle"
+
+    /// 􀚠
+    case _36CircleFill = "36.circle.fill"
+
+    /// 􀛅
+    case _36Square = "36.square"
+
+    /// 􀛆
+    case _36SquareFill = "36.square.fill"
+
+    /// 􀚡
+    case _37Circle = "37.circle"
+
+    /// 􀚢
+    case _37CircleFill = "37.circle.fill"
+
+    /// 􀛇
+    case _37Square = "37.square"
+
+    /// 􀛈
+    case _37SquareFill = "37.square.fill"
+
+    /// 􀚣
+    case _38Circle = "38.circle"
+
+    /// 􀚤
+    case _38CircleFill = "38.circle.fill"
+
+    /// 􀛉
+    case _38Square = "38.square"
+
+    /// 􀛊
+    case _38SquareFill = "38.square.fill"
+
+    /// 􀚥
+    case _39Circle = "39.circle"
+
+    /// 􀚦
+    case _39CircleFill = "39.circle.fill"
+
+    /// 􀛋
+    case _39Square = "39.square"
+
+    /// 􀛌
+    case _39SquareFill = "39.square.fill"
+
+    /// 􀀾
+    case _3Circle = "3.circle"
+
+    /// 􀀿
+    case _3CircleFill = "3.circle.fill"
+
+    /// 􀃎
+    case _3Square = "3.square"
+
+    /// 􀃏
+    case _3SquareFill = "3.square.fill"
+
+    /// 􀚧
+    case _40Circle = "40.circle"
+
+    /// 􀚨
+    case _40CircleFill = "40.circle.fill"
+
+    /// 􀛍
+    case _40Square = "40.square"
+
+    /// 􀛎
+    case _40SquareFill = "40.square.fill"
+
+    /// 􀚩
+    case _41Circle = "41.circle"
+
+    /// 􀚪
+    case _41CircleFill = "41.circle.fill"
+
+    /// 􀛏
+    case _41Square = "41.square"
+
+    /// 􀛐
+    case _41SquareFill = "41.square.fill"
+
+    /// 􀚫
+    case _42Circle = "42.circle"
+
+    /// 􀚬
+    case _42CircleFill = "42.circle.fill"
+
+    /// 􀛑
+    case _42Square = "42.square"
+
+    /// 􀛒
+    case _42SquareFill = "42.square.fill"
+
+    /// 􀚭
+    case _43Circle = "43.circle"
+
+    /// 􀚮
+    case _43CircleFill = "43.circle.fill"
+
+    /// 􀛓
+    case _43Square = "43.square"
+
+    /// 􀛔
+    case _43SquareFill = "43.square.fill"
+
+    /// 􀚯
+    case _44Circle = "44.circle"
+
+    /// 􀚰
+    case _44CircleFill = "44.circle.fill"
+
+    /// 􀛕
+    case _44Square = "44.square"
+
+    /// 􀛖
+    case _44SquareFill = "44.square.fill"
+
+    /// 􀚱
+    case _45Circle = "45.circle"
+
+    /// 􀚲
+    case _45CircleFill = "45.circle.fill"
+
+    /// 􀛗
+    case _45Square = "45.square"
+
+    /// 􀛘
+    case _45SquareFill = "45.square.fill"
+
+    /// 􀚳
+    case _46Circle = "46.circle"
+
+    /// 􀚴
+    case _46CircleFill = "46.circle.fill"
+
+    /// 􀛙
+    case _46Square = "46.square"
+
+    /// 􀛚
+    case _46SquareFill = "46.square.fill"
+
+    /// 􀚵
+    case _47Circle = "47.circle"
+
+    /// 􀚶
+    case _47CircleFill = "47.circle.fill"
+
+    /// 􀛛
+    case _47Square = "47.square"
+
+    /// 􀛜
+    case _47SquareFill = "47.square.fill"
+
+    /// 􀚷
+    case _48Circle = "48.circle"
+
+    /// 􀚸
+    case _48CircleFill = "48.circle.fill"
+
+    /// 􀛝
+    case _48Square = "48.square"
+
+    /// 􀛞
+    case _48SquareFill = "48.square.fill"
+
+    /// 􀚹
+    case _49Circle = "49.circle"
+
+    /// 􀚺
+    case _49CircleFill = "49.circle.fill"
+
+    /// 􀛟
+    case _49Square = "49.square"
+
+    /// 􀛠
+    case _49SquareFill = "49.square.fill"
+
+    /// 􀘗
+    case _4AltCircle = "4.alt.circle"
+
+    /// 􀘘
+    case _4AltCircleFill = "4.alt.circle.fill"
+
+    /// 􀘙
+    case _4AltSquare = "4.alt.square"
+
+    /// 􀘚
+    case _4AltSquareFill = "4.alt.square.fill"
+
+    /// 􀁀
+    case _4Circle = "4.circle"
+
+    /// 􀁁
+    case _4CircleFill = "4.circle.fill"
+
+    /// 􀃐
+    case _4Square = "4.square"
+
+    /// 􀃑
+    case _4SquareFill = "4.square.fill"
+
+    /// 􀚻
+    case _50Circle = "50.circle"
+
+    /// 􀚼
+    case _50CircleFill = "50.circle.fill"
+
+    /// 􀛡
+    case _50Square = "50.square"
+
+    /// 􀛢
+    case _50SquareFill = "50.square.fill"
+
+    /// 􀁂
+    case _5Circle = "5.circle"
+
+    /// 􀁃
+    case _5CircleFill = "5.circle.fill"
+
+    /// 􀃒
+    case _5Square = "5.square"
+
+    /// 􀃓
+    case _5SquareFill = "5.square.fill"
+
+    /// 􀑱
+    case _6AltCircle = "6.alt.circle"
+
+    /// 􀑲
+    case _6AltCircleFill = "6.alt.circle.fill"
+
+    /// 􀑵
+    case _6AltSquare = "6.alt.square"
+
+    /// 􀑶
+    case _6AltSquareFill = "6.alt.square.fill"
+
+    /// 􀁄
+    case _6Circle = "6.circle"
+
+    /// 􀁅
+    case _6CircleFill = "6.circle.fill"
+
+    /// 􀃔
+    case _6Square = "6.square"
+
+    /// 􀃕
+    case _6SquareFill = "6.square.fill"
+
+    /// 􀁆
+    case _7Circle = "7.circle"
+
+    /// 􀁇
+    case _7CircleFill = "7.circle.fill"
+
+    /// 􀃖
+    case _7Square = "7.square"
+
+    /// 􀃗
+    case _7SquareFill = "7.square.fill"
+
+    /// 􀁈
+    case _8Circle = "8.circle"
+
+    /// 􀁉
+    case _8CircleFill = "8.circle.fill"
+
+    /// 􀃘
+    case _8Square = "8.square"
+
+    /// 􀃙
+    case _8SquareFill = "8.square.fill"
+
+    /// 􀑳
+    case _9AltCircle = "9.alt.circle"
+
+    /// 􀑴
+    case _9AltCircleFill = "9.alt.circle.fill"
+
+    /// 􀑷
+    case _9AltSquare = "9.alt.square"
+
+    /// 􀑸
+    case _9AltSquareFill = "9.alt.square.fill"
+
+    /// 􀁊
+    case _9Circle = "9.circle"
+
+    /// 􀁋
+    case _9CircleFill = "9.circle.fill"
+
+    /// 􀃚
+    case _9Square = "9.square"
+
+    /// 􀃛
+    case _9SquareFill = "9.square.fill"
 }
