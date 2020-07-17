@@ -9,18 +9,18 @@ Pod::Spec.new do |spec|
   spec.author = { 'Frederick Pietschmann' => 'cocoapods@fredpi.de' }
   spec.social_media_url = 'https://twitter.com/fredcpi'
 
-  spec.static_framework = true
+# spec.static_framework = true
   
   spec.ios.deployment_target = '11.0'
   spec.tvos.deployment_target = '11.0'
   spec.watchos.deployment_target = '6.0'
-  spec.osx.deployment_target = "10.15"
+  spec.osx.deployment_target = "10.16"
   
   spec.swift_version = '5.1'
 
   spec.source = { :git => "https://github.com/piknotech/SFSafeSymbols.git", :tag => "#{spec.version}" }
   spec.source_files = 'Sources/**/*'
 
-  spec.frameworks = 'UIKit'
-  spec.weak_framework = 'SwiftUI'
+#  spec.frameworks = 'UIKit'
+#  spec.weak_framework = 'SwiftUI'
 end
