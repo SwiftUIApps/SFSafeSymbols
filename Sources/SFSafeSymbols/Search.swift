@@ -11,10 +11,10 @@ import Foundation
 extension SFSymbol {
     
     /// perfroms a case insenstive search on the symbols and returns the matching array
-    public static func search(_ string: String) -> [String] {
+    public static func search(_ string: String) -> [SFSymbol] {
         allStrings.filter( {
             $0.localizedCaseInsensitiveContains(string)
-        })
+        }).compactMap({ SFSymbol(rawValue: $0)})
     }
     
     
