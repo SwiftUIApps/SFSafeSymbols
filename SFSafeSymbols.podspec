@@ -10,7 +10,9 @@ Pod::Spec.new do |spec|
   spec.social_media_url = 'https://twitter.com/fredcpi'
 
 # spec.static_framework = true
-  
+  spec.pod_target_xcconfig = {
+    'PRODUCT_BUNDLE_IDENTIFIER': 'com.piknotech.sfsafesymbols'
+  }
   spec.ios.deployment_target = '11.0'
   spec.tvos.deployment_target = '11.0'
   spec.watchos.deployment_target = '6.0'
@@ -20,6 +22,7 @@ Pod::Spec.new do |spec|
 
   spec.source = { :git => "https://github.com/piknotech/SFSafeSymbols.git", :tag => "#{spec.version}" }
   spec.source_files = 'Sources/**/*'
+  spec.resources = 'Resources/*'
 
 #  spec.frameworks = 'UIKit'
 #  spec.weak_framework = 'SwiftUI'

@@ -54,6 +54,7 @@
 /* Begin PBXFileReference section */
 		4C86407E242925E40061EEAD /* UIButtonExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonExtension.swift; sourceTree = "<group>"; };
 		4C864080242928CF0061EEAD /* UIButtonExtensionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonExtensionTests.swift; sourceTree = "<group>"; };
+		A88DD3AE24CF3C1100D8D2D9 /* symbols.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = symbols.json; sourceTree = "<group>"; };
 		OBJ_12 /* SFSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SFSymbol.swift; sourceTree = "<group>"; };
 		OBJ_14 /* SwiftUIImageExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIImageExtension.swift; sourceTree = "<group>"; };
 		OBJ_15 /* UIApplicationShortcutIconExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIApplicationShortcutIconExtension.swift; sourceTree = "<group>"; };
@@ -95,6 +96,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A88DD3AD24CF3BE000D8D2D9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A88DD3AE24CF3C1100D8D2D9 /* symbols.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		OBJ_10 /* SFSafeSymbols */ = {
 			isa = PBXGroup;
 			children = (
@@ -157,6 +166,7 @@
 			isa = PBXGroup;
 			children = (
 				OBJ_6 /* Package.swift */,
+				A88DD3AD24CF3BE000D8D2D9 /* Resources */,
 				OBJ_7 /* Configs */,
 				OBJ_9 /* Sources */,
 				OBJ_17 /* Tests */,
