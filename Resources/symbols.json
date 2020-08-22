@@ -1,7 +1,7 @@
 [
   {
-    "title": "All",
-    "items": [
+    "title" : "All",
+    "items" : [
       "square.and.arrow.up",
       "square.and.arrow.up.fill",
       "square.and.arrow.down",
@@ -1674,11 +1674,12 @@
       "49.square.fill",
       "50.square",
       "50.square.fill"
-    ]
+    ],
+    "displaySymbol" : "rectangle.grid.2x2"
   },
   {
-    "title": "Communication",
-    "items": [
+    "title" : "Communication",
+    "items" : [
       "mic",
       "mic.fill",
       "mic.circle",
@@ -1749,11 +1750,12 @@
       "envelope.open.fill",
       "envelope.badge",
       "envelope.badge.fill"
-    ]
+    ],
+    "displaySymbol" : "message"
   },
   {
-    "title": "Weather",
-    "items": [
+    "title" : "Weather",
+    "items" : [
       "sun.min",
       "sun.min.fill",
       "sun.max",
@@ -1819,11 +1821,12 @@
       "thermometer.sun",
       "thermometer.snowflake",
       "thermometer"
-    ]
+    ],
+    "displaySymbol" : "cloud.sun"
   },
   {
-    "title": "Objects & Tools",
-    "items": [
+    "title" : "Objects & Tools",
+    "items" : [
       "pencil",
       "pencil.circle",
       "pencil.circle.fill",
@@ -2035,11 +2038,12 @@
       "lightbulb.fill",
       "lightbulb.slash",
       "lightbulb.slash.fill"
-    ]
+    ],
+    "displaySymbol" : "folder"
   },
   {
-    "title": "Devices",
-    "items": [
+    "title" : "Devices",
+    "items" : [
       "keyboard",
       "keyboard.chevron.compact.down",
       "hifispeaker",
@@ -2056,11 +2060,12 @@
       "gamecontroller",
       "gamecontroller.fill",
       "headphones"
-    ]
+    ],
+    "displaySymbol" : "tv"
   },
   {
-    "title": "Connectivity",
-    "items": [
+    "title" : "Connectivity",
+    "items" : [
       "wifi",
       "wifi.slash",
       "wifi.exclamationmark",
@@ -2069,20 +2074,22 @@
       "radiowaves.left",
       "radiowaves.right",
       "antenna.radiowaves.left.and.right"
-    ]
+    ],
+    "displaySymbol" : "antenna.radiowaves.left.and.right"
   },
   {
-    "title": "Transportation",
-    "items": [
+    "title" : "Transportation",
+    "items" : [
       "car",
       "car.fill",
       "tram.fill",
       "airplane"
-    ]
+    ],
+    "displaySymbol" : "car.fill"
   },
   {
-    "title": "Human",
-    "items": [
+    "title" : "Human",
+    "items" : [
       "person",
       "person.fill",
       "person.circle",
@@ -2132,11 +2139,12 @@
       "hand.point.left.fill",
       "hand.point.right",
       "hand.point.right.fill"
-    ]
+    ],
+    "displaySymbol" : "person.crop.circle"
   },
   {
-    "title": "Nature",
-    "items": [
+    "title" : "Nature",
+    "items" : [
       "flame",
       "flame.fill",
       "bolt",
@@ -2154,11 +2162,12 @@
       "tortoise",
       "tortoise.fill",
       "leaf.arrow.circlepath"
-    ]
+    ],
+    "displaySymbol" : "flame"
   },
   {
-    "title": "Editing",
-    "items": [
+    "title" : "Editing",
+    "items" : [
       "pencil",
       "pencil.circle",
       "pencil.circle.fill",
@@ -2206,11 +2215,12 @@
       "slider.horizontal.3",
       "circle.lefthalf.fill",
       "circle.righthalf.fill"
-    ]
+    ],
+    "displaySymbol" : "slider.horizontal.3"
   },
   {
-    "title": "Text Formatting",
-    "items": [
+    "title" : "Text Formatting",
+    "items" : [
       "paragraph",
       "list.dash",
       "list.bullet",
@@ -2243,11 +2253,12 @@
       "textformat.abc.dottedunderline",
       "textformat.123",
       "textbox"
-    ]
+    ],
+    "displaySymbol" : "textformat"
   },
   {
-    "title": "Media",
-    "items": [
+    "title" : "Media",
+    "items" : [
       "play",
       "play.fill",
       "play.circle",
@@ -2327,11 +2338,12 @@
       "gobackward.90.hi",
       "goforward.plus",
       "gobackward.minus"
-    ]
+    ],
+    "displaySymbol" : "playpause"
   },
   {
-    "title": "Keyboard",
-    "items": [
+    "title" : "Keyboard",
+    "items" : [
       "command",
       "option",
       "alt",
@@ -2360,11 +2372,12 @@
       "eject.fill",
       "control",
       "projective"
-    ]
+    ],
+    "displaySymbol" : "command"
   },
   {
-    "title": "Commerce",
-    "items": [
+    "title" : "Commerce",
+    "items" : [
       "signature",
       "bag",
       "bag.fill",
@@ -2508,11 +2521,12 @@
       "larisign.square.fill",
       "bitcoinsign.square",
       "bitcoinsign.square.fill"
-    ]
+    ],
+    "displaySymbol" : "cart"
   },
   {
-    "title": "Time",
-    "items": [
+    "title" : "Time",
+    "items" : [
       "clock",
       "clock.fill",
       "alarm",
@@ -2520,11 +2534,12 @@
       "stopwatch",
       "stopwatch.fill",
       "timer"
-    ]
+    ],
+    "displaySymbol" : "timer"
   },
   {
-    "title": "Health",
-    "items": [
+    "title" : "Health",
+    "items" : [
       "heart",
       "heart.fill",
       "heart.circle",
@@ -2536,11 +2551,12 @@
       "waveform.path.ecg",
       "staroflife",
       "staroflife.fill"
-    ]
+    ],
+    "displaySymbol" : "staroflife"
   },
   {
-    "title": "Shapes",
-    "items": [
+    "title" : "Shapes",
+    "items" : [
       "rectangle",
       "rectangle.fill",
       "shield",
@@ -2557,11 +2573,12 @@
       "circle.fill",
       "square",
       "square.fill"
-    ]
+    ],
+    "displaySymbol" : "square.on.circle"
   },
   {
-    "title": "Arrows",
-    "items": [
+    "title" : "Arrows",
+    "items" : [
       "arrowshape.turn.up.left",
       "arrowshape.turn.up.left.fill",
       "arrowshape.turn.up.left.circle",
@@ -2750,11 +2767,12 @@
       "arrowtriangle.right.circle.fill",
       "arrowtriangle.right.square",
       "arrowtriangle.right.square.fill"
-    ]
+    ],
+    "displaySymbol" : "arrow.right"
   },
   {
-    "title": "Indices",
-    "items": [
+    "title" : "Indices",
+    "items" : [
       "questionmark.circle",
       "questionmark.circle.fill",
       "questionmark.square",
@@ -3251,11 +3269,12 @@
       "49.square.fill",
       "50.square",
       "50.square.fill"
-    ]
+    ],
+    "displaySymbol" : "a.circle"
   },
   {
-    "title": "Math",
-    "items": [
+    "title" : "Math",
+    "items" : [
       "sum",
       "percent",
       "function",
@@ -3305,6 +3324,7 @@
       "number.square",
       "number.square.fill",
       "x.squareroot"
-    ]
+    ],
+    "displaySymbol" : "x.squareroot"
   }
 ]
